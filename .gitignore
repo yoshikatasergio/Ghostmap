@@ -1,0 +1,45 @@
+# GhostMap .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# sqlmap / GhostMap session/output
+output/
+session/
+.sqlmap_history
+traffic.txt
+ghostmap-sergio-*.txt
+ghostmap-shell-*.log
+
+# IDE
+.idea/
+.vscode/
+.aider*
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup / temp
+*.bak
+*.tmp
+*.old
+*.orig
+req*.txt
+
+# Local config (do not commit credentials)
+.env
+.env.local
+*.pem
+*.key

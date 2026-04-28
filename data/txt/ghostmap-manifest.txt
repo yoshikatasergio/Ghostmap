@@ -1,0 +1,24 @@
+# GhostMap v5 modified files manifest
+# Format: <sha256>  <bytes>  <path>
+# Generated automatically. Do not edit by hand.
+
+b03a5a9ec688ed067cd2d2c3c26b4c116653ac18e77a8c819771a1cc121bdee5  48902  lib/core/settings.py
+eb916f5f696be8d5fe00bdef1e3e847261ef8f8494e2247552d0cd2c20576c48  37289  lib/core/target.py
+4914386d1c7869f3a25d525a43b1d3058da1ed148c7d66787a06bb4a46b39705  7383  lib/core/log.py
+4fbc407f02fe516ed72211145a93f2daee347ad79f3633b71d85ff65e3855b8e  198560  lib/core/common.py
+ae9ed0fc5cb66f519bcb3efece10fa97ae764db41f95827d1e2f8223583c7d86  109486  lib/core/option.py
+913ee84bf6c0827f5dd8894765839f0047873fd1a7b53636e266f743a9eb05b9  8033  lib/core/jsonparser.py
+49db0eb1319947ab11ccfc5fe4f27f3a4685d722f025abcb20a353746e8ee397  6813  lib/core/integrity.py
+c0290a0b0055a6d695620daeb60db09e4a84a0688cd5f51c55ea59e2ad60a762  18000  lib/core/sergio.py
+e50b829db6936db0808835d81bff0e9bb80b35f4a4fe63cb27e5e4b43dae0937  24185  lib/core/preshell.py
+b6b26139b5df2a0dc1ba86e62ef659cb89186ebf24891322d7e0691c2d74684c  15092  lib/core/wafdetect.py
+ef05bcf5f62297dc8ee72d2dc302b7596d253d87d07155d87667eb8078008225  38924  lib/takeover/abstraction.py
+beaeb321d64e8588486914204ed3eec7b88e8767c0c0fa0dd9ebe3ee64f8727b  52085  lib/parse/cmdline.py
+8a57c2c520f652f1e730e3004d2b3d8cc93817fa764ded522d45baddd802109d  19315  lib/techniques/union/test.py
+62f50c53cf595d71a63511015d76431fa0fd3f97e6bd6ea6ba4232624aaf80f8  78511  lib/controller/checks.py
+d7a0979d2046372272558af77d433e6ec82de2f2ca64c8f86907444f6378304e  85477  lib/request/connect.py
+402397a7e1662b2a2b9b9cc00bf76a0c3072505f155af8e44ff07ec9b0d4b9f4  28983  sqlmap.py
+7a14d42e26813280961f91325d0ba1ae26c154c1643be31f9b99b3fd8746be3b  6973  tamper/README.md
+7f7a2bf29796709b41e40bd6ba4d81bee432d38c491f9955bd2fb3ff6ffba40a  4566  GHOSTMAP_README.md
+6784ed5a9bc1ca3cc44c682d5d2261b5a4aedf3ae7ae96aa07614a8301f5c61a  5323  test_ghostmap_jsonparser.py
+d96ee7bb683d2d232051d4f2ae68452bfdacbca36a190d00221bb90e5eb46a01  7255  test_ghostmap_sergio.py
